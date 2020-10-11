@@ -1,3 +1,4 @@
+package BasicStringOperations;
 
 public class CharCheck {
 

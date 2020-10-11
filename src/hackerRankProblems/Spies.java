@@ -1,4 +1,4 @@
-package hacker;
+package hackerRankProblems;
 
 public class Spies {
 

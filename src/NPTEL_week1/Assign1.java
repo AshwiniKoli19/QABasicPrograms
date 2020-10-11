@@ -1,4 +1,4 @@
-package week1;
+package NPTEL_week1;
 
 public class Assign1 {
 
